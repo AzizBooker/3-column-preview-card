@@ -1,3 +1,23 @@
 body{
     font-size: 0.9375rem;
+    height: 100vh;
+    padding-top: 25vh;
+    img{
+        margin-top: 1rem;
+    }
+    h2{
+        margin-top: 2rem;
+        color: $veryLightGray;
+    }
+    p{
+        margin-top: 1.2rem;
+        color: $transparentWhite;
+    }
+    button{
+        border-color: transparent;
+        padding: 0.2rem 0.5rem;
+        border-radius: 1rem;
+        background-color: $veryLightGray;
+        margin-top: 1rem;
+    }
 }

@@ -1,0 +1,25 @@
+.cardM{
+
+    height: 110%;
+    padding: 1rem 1rem;
+    &_1{
+        background-color: $brightOrange;
+        border-radius: 1rem 0rem 0rem 1rem;
+        button{
+            color: $brightOrange;
+        }
+    }
+    &_2{
+        background-color: $darkCyan;
+        button{
+            color:$darkCyan
+        }
+    }
+    &_3{
+        background-color: $veryDarkCyan;
+        border-radius: 0rem 1rem 1rem 0rem;
+        button{
+            color:$veryDarkCyan
+        }
+    }
+}

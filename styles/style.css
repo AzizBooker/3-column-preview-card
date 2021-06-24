@@ -1,0 +1,59 @@
+body {
+  font-size: 0.9375rem;
+  height: 100vh;
+  padding-top: 25vh;
+}
+
+body img {
+  margin-top: 1rem;
+}
+
+body h2 {
+  margin-top: 2rem;
+  color: #f2f2f2;
+}
+
+body p {
+  margin-top: 1.2rem;
+  color: rgba(255, 255, 255, 0.75);
+}
+
+body button {
+  border-color: transparent;
+  padding: 0.2rem 0.5rem;
+  border-radius: 1rem;
+  background-color: #f2f2f2;
+  margin-top: 1rem;
+}
+
+.cardM {
+  height: 110%;
+  padding: 1rem 1rem;
+}
+
+.cardM_1 {
+  background-color: #e38826;
+  border-radius: 1rem 0rem 0rem 1rem;
+}
+
+.cardM_1 button {
+  color: #e38826;
+}
+
+.cardM_2 {
+  background-color: #006970;
+}
+
+.cardM_2 button {
+  color: #006970;
+}
+
+.cardM_3 {
+  background-color: #004241;
+  border-radius: 0rem 1rem 1rem 0rem;
+}
+
+.cardM_3 button {
+  color: #004241;
+}
+/*# sourceMappingURL=style.css.map */
