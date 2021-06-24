@@ -1,7 +1,8 @@
 .cardM{
 
     height: 110%;
-    padding: 1rem 1rem;
+    padding: 2rem 2rem;
+  
     &_1{
         background-color: $brightOrange;
         border-radius: 1rem 0rem 0rem 1rem;
@@ -18,6 +19,7 @@
     &_3{
         background-color: $veryDarkCyan;
         border-radius: 0rem 1rem 1rem 0rem;
+        
         button{
             color:$veryDarkCyan
         }
